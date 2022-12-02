@@ -68,5 +68,8 @@
   "resolutions": {
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0"
+  },
+  "engines" : { 
+     "node" : "16.18.1" 
   }
 }
